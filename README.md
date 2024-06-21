@@ -9,8 +9,8 @@
 > Windows / Mac / Linux đều dùng được miễn có cài khứa này 👉 [NodeJS](https://nodejs.org/en/download/prebuilt-installer)
 
 > Mọi người có hứng thú với con game vô tri này thì đây 👉 
-[Quack Quack Game] https://t.me/quackquack_game_bot?start=6hn8Xrp7DK // ref của mhqb365.
-[Quack Quack Game] https://t.me/quackquack_game_bot?start=DSPE3y5Bzo // ref của QTieee.
+[Quack Quack Game] https://t.me/quackquack_game_bot?start=L24QFII8oF 
+[Quack Quack Game] https://t.me/quackquack_game_bot?start=L24QFII8oF 
 
 
 > Link Tool gốc 👉 [j2c.cc/quack] (https://j2c.cc/quack)
@@ -147,7 +147,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 <img src="./images/12.jpg" />
 
 > Cái này là do PowerShell / Cmd không hỗ trợ. Tải [Terminal](https://github.com/microsoft/terminal) về cài đặt rồi mở Tool bằng Terminal nhé
-
-From [mhqb365.com](https://mhqb365.com) with Love ❤ and GoodLuck
-
-From QTieee with Love ❤ and GoodLuck
